@@ -115,10 +115,3 @@ A PHP web application for managing judges and scoring participants.
 
 
 ---
-
-## Contact & Support
-
-For further assistance or customization, please refer to the project repository me.
-
----
-
