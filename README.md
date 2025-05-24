@@ -115,3 +115,23 @@ A PHP web application for managing judges and scoring participants.
 
 
 ---
+### Visual References
+Below are some snapshots demonstrating the system's interface and features:
+
+![Screenshot 1](judge-management-system/assets/images/Screenshot%20from%202025-05-24%2018-49-44.png)  
+Admin 1, e.g., Dashboard overview.
+
+![Screenshot 2](judge-management-system/assets/images/Screenshot%20from%202025-05-24%2018-49-53.png)  
+Admin 2, e.g., Add Judge page.
+
+![Screenshot 3](judge-management-system/assets/images/Screenshot%20from%202025-05-24%2018-50-19.png)  
+Admin & Judge  3, e.g.,  scoring interface.
+
+![Screenshot 4](judge-management-system/assets/images/Screenshot%20from%202025-05-24%2018-50-51.png)  
+Judge 4, e.g., Dashboard overview.
+
+![Screenshot 5](judge-management-system/assets/images/Screenshot%20from%202025-05-24%2018-51-05.png)  
+judge  5, e. Assign Score
+
+
+
